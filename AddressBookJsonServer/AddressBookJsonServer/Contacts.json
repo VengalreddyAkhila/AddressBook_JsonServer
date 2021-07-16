@@ -1,0 +1,51 @@
+
+  {
+    "Contacts": [
+      {
+        "id": 1,
+        "firstName": "Akhila",
+        "lastName": "Reddy",
+        "address": "Xyz",
+        "city": "Gadwal",
+        "state": "Telangana",
+        "zipCode": 509132,
+        "phoneNumber": 9678543312,
+        "email": "akhila@gmail.com"
+      },
+      {
+        "id": 2,
+        "firstName": "john",
+        "lastName": "sam",
+        "address": "x-nagar",
+        "city": "Hyd",
+        "state": "Karnataka",
+        "zipCode": 234567,
+        "phoneNumber": 9876523451,
+        "email": "john@gmail.com"
+      },
+      {
+        "id": 3,
+        "firstName": "Pyush",
+        "lastName": "singh",
+        "address": "barath nagar",
+        "city": "guntur",
+        "state": "Andrapradsh",
+        "zipCode": 509132,
+        "phoneNumber": 9908556919,
+        "email": "singh@gmail.com"
+      },
+      {
+        "firstName": "anandh",
+        "lastName": "singh",
+        "address": "some address",
+        "city": "hospet",
+        "state": "karnataka",
+        "zipCode": 583201,
+        "phoneNumber": 99994567890,
+        "email": "singhanandh@gmail.com",
+        "id": 4
+      }
+      
+    ]
+  }
+

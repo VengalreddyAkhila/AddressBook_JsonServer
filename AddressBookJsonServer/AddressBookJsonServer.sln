@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookJsonServer", "AddressBookJsonServer\AddressBookJsonServer.csproj", "{4C9137BF-77A1-4003-B373-EADB8C72B639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitUsingRest.test", "NunitUsingRest.test\NunitUsingRest.test.csproj", "{93E6C9B6-D300-4043-9D37-F331D9E78262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9137BF-77A1-4003-B373-EADB8C72B639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9137BF-77A1-4003-B373-EADB8C72B639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9137BF-77A1-4003-B373-EADB8C72B639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9137BF-77A1-4003-B373-EADB8C72B639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E6C9B6-D300-4043-9D37-F331D9E78262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E6C9B6-D300-4043-9D37-F331D9E78262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E6C9B6-D300-4043-9D37-F331D9E78262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E6C9B6-D300-4043-9D37-F331D9E78262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A3613D-FFD0-4B4D-A6FF-458C8010CB86}
+	EndGlobalSection
+EndGlobal
